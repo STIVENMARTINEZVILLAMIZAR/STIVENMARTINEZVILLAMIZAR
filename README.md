@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=¡WELCOME!%20👨‍💻&fontSize=45&fontColor=00FF00&animation=fadeIn&desc=Hacking%20Mode%20ON%20%7C%20Code%20Rain%20%F0%9F%92%9A&descSize=20&descAlign=62&descAlignY=80&fontAlignY=30&theme=dark" alt="hacker header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=WELCOME%20👨‍💻&fontSize=45&fontColor=00FF00&animation=fadeIn&desc=Hacking%20Mode%20ON&descSize=20&descAlignY=80&fontAlignY=30&theme=dark" alt="hacker header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=int+main()+%7B+return+0%3B+%7D;if+(x+%3E+10)+%7B+console.log(%22hack%22)%3B+%7D;while(true)+%7B+printf(%22�%22)%3B+%7D;01010110+01001001+00001010" alt="hacking code rain"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=int%20main()%20%7B%20return%200%3B%20%7D;if%20(x%20%3E%2010)%20%7B%20hack()%3B%20%7D;while(true)%20%7B%20code()%3B%20%7D;01010110%2001001001%2000001010" alt="hacking code rain"/>
 </p>
 
 <h1 align="center">👨‍💻 Stiven Martínez Villamizar</h1>
 
 <p align="center">
-  <img src="./media/stiven.jpg" alt="" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #1E90FF;"/>
+  <img src="./media/stiven.png" alt="" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #1E90FF;"/>
 </p>
 
 <p align="center">
