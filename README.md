@@ -61,11 +61,6 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 
 ---
 
-<!-- 🎮 Pacman contribution graph -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=STIVENMARTINEZVILLAMIZAR&show_icons=true&theme=tokyonight" />
 </p>
