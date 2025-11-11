@@ -9,10 +9,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=int%20main()%20%7B%20return%200%3B%20%7D;if%20(x%20%3E%2010)%20%7B%20hack()%3B%20%7D;while(true)%20%7B%20code()%3B%20%7D;01010110%2001001001%2000001010" alt="hacking code rain"/>
-</p>
-
 <h1 align="center">👨‍💻 Stiven Martínez Villamizar</h1>
 
 ---
