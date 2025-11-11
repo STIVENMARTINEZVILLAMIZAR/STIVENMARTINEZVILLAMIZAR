@@ -1,10 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=WELCOME&fontSize=60&fontColor=00FF00&animation=fadeIn" alt="hacker header"/>
-</p>
+<!-- 🌌 Banner con fondo de código cayendo y avatar holográfico -->
+<div align="center" style="position: relative; height: 250px; overflow: hidden; border-radius: 20px;">
+  
+  <!-- Fondo de código cayendo tipo Matrix -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdxaWRjZ3ZndTIwaWRvNDk2cG5idDdvajFjeDI0OW94NHR2dmtjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif" 
+       alt="Matrix code background" 
+       style="width:100%; height:250px; object-fit:cover; filter:brightness(0.4);" />
+  
+  <!-- Texto animado -->
+  <h1 style="
+      position:absolute; 
+      top:40%; 
+      left:10%; 
+      color:#00FF88; 
+      font-family:'Courier New', monospace; 
+      font-size:30px; 
+      animation: fadeIn 3s infinite alternate;
+    ">
+    🚀 WELCOME TO MY UNIVERSE
+  </h1>
 
-<p align="center">
-  <img src="./media/stiven.png" alt="Stiven Martinez" width="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; margin-top: -100px; position: relative; z-index: 10;"/>
-</p>
+  <!-- Avatar holográfico a la derecha -->
+  <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/stiven.png" 
+       alt="Avatar holográfico" 
+       style="
+         position:absolute; 
+         top:25%; 
+         right:10%; 
+         width:120px; 
+         height:120px; 
+         border-radius:50%; 
+         box-shadow:0 0 25px #00FFFF; 
+         animation: float 4s ease-in-out infinite;
+       " />
+</div>
+
+<!-- Animaciones CSS (GitHub las interpreta dentro del README) -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0.3; }
+  to { opacity: 1; }
+}
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
 
 ### 🌐 Conecta conmigo
 
@@ -61,3 +102,4 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=STIVENMARTINEZVILLAMIZAR&show_icons=true&theme=tokyonight" />
 </p>
+
