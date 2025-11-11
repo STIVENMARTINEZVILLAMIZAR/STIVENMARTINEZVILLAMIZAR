@@ -1,102 +1,16 @@
-<style>
-  @keyframes hologram-glow {
-    0%, 100% { 
-      filter: drop-shadow(0 0 10px #00FF00) drop-shadow(0 0 20px #00FF00);
-      transform: scale(1);
-    }
-    50% { 
-      filter: drop-shadow(0 0 20px #00FF00) drop-shadow(0 0 30px #00FF00) drop-shadow(0 0 40px #0099FF);
-      transform: scale(1.05);
-    }
-  }
-  
-  @keyframes float-up {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
-  }
-  
-  .hacker-header-simple {
-    position: relative;
-    width: 100%;
-    height: 300px;
-    background: #000000;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    overflow: hidden;
-    border-bottom: 3px solid #00FF00;
-    box-shadow: 0 0 30px rgba(0, 255, 0, 0.3);
-    margin: 20px auto;
-    padding: 20px;
-    box-sizing: border-box;
-  }
-  
-  .welcome-text {
-    font-size: clamp(32px, 8vw, 56px);
-    font-weight: bold;
-    color: #00FF00;
-    text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00;
-    font-family: 'Courier New', monospace;
-    letter-spacing: 3px;
-    animation: float-up 3s ease-in-out infinite;
-    flex: 1;
-    text-align: center;
-  }
-  
-  .hologram-profile {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 30% 30%, rgba(0, 255, 0, 0.3), rgba(0, 0, 0, 0.8));
-    box-shadow: 0 0 30px #00FF00, inset 0 0 30px rgba(0, 255, 0, 0.2);
-    animation: hologram-glow 3s ease-in-out infinite, float-up 3s ease-in-out infinite;
-    overflow: hidden;
-    border: 3px solid #00FF00;
-    flex-shrink: 0;
-  }
-  
-  .hologram-profile img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: brightness(1.1) contrast(1.2);
-  }
-  
-  @media (max-width: 768px) {
-    .hacker-header-simple {
-      height: 250px;
-      flex-direction: column;
-      gap: 20px;
-    }
-    
-    .welcome-text {
-      order: 1;
-    }
-    
-    .hologram-profile {
-      order: 2;
-      width: 150px;
-      height: 150px;
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=WELCOME&fontSize=60&fontColor=00FF00&animation=twinkling&customColorList=000000" alt="hacker header"/>
+</p>
 
-<div class="hacker-header-simple">
-  <div class="welcome-text">¡WELCOME!</div>
-  <div class="hologram-profile">
-    <img src="./media/stiven.png" alt="Stiven Martinez"/>
-  </div>
-</div>
+<p align="center" style="margin-top: -100px; position: relative; z-index: 10;">
+  <img src="./media/stiven.png" alt="Stiven Martinez" width="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00, 0 0 80px rgba(0, 255, 0, 0.3);"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=int%20main()%20%7B%20return%200%3B%20%7D;if%20(x%20%3E%2010)%20%7B%20hack()%3B%20%7D;while(true)%20%7B%20code()%3B%20%7D;01010110%2001001001%2000001010" alt="hacking code rain"/>
 </p>
 
-<p align="center">
-  <em>
-    Desarrollador de Software | Apasionado por la programación, el aprendizaje constante y los retos tecnológicos.
-  </em>
-</p>
+<h1 align="center">👨‍💻 Stiven Martínez Villamizar</h1>
 
 ---
 
