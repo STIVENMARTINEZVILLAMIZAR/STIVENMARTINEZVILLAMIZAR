@@ -1,48 +1,44 @@
-<!-- 🌌 Banner con fondo de código cayendo y avatar holográfico -->
-<div align="center" style="position: relative; height: 250px; overflow: hidden; border-radius: 20px;">
+<div align="center" style="position: relative; height: 250px; overflow: hidden; border-radius: 20px; background-color: #000;">
   
-  <!-- Fondo de código cayendo tipo Matrix -->
-<<<<<<< HEAD
-  <img src="./media/matrix.png" 
-=======
-  <img src="./media/matrix.gif" 
->>>>>>> 209d75d (FEAT: :zap: UPDATE CODE)
+  <!-- Fondo Matrix azul -->
+  <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/matrix.gif" 
        alt="Matrix code background" 
-       style="width:100%; height:250px; object-fit:cover; filter:brightness(0.4);" />
+       style="width:100%; height:250px; object-fit:cover; opacity:0.3; filter:brightness(0.8);" />
   
   <!-- Texto animado -->
   <h1 style="
-      position:absolute; 
-      top:40%; 
-      left:10%; 
-      color:#00FF88; 
-      font-family:'Courier New', monospace; 
-      font-size:30px; 
-      animation: fadeIn 3s infinite alternate;
+      position:absolute;
+      top:35%;
+      left:10%;
+      color:black;
+      font-family:'Courier New', monospace;
+      font-size:32px;
+      text-shadow:0 0 10px #0a6107ff, 0 0 20px #05bb0eff;
+      animation: glow 2s ease-in-out infinite alternate;
     ">
     🚀 WELCOME TO MY UNIVERSE
   </h1>
 
-<<<<<<< HEAD
-  <!-- Avatar holográfico a la derecha -->
-
-=======
- 
+  <!-- Avatar holográfico flotando -->
+  <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/stiven.png" 
+       alt="Stiven Hologram" 
+       style="
+         position:absolute;
+         top:20%;
+         right:10%;
+         width:120px;
+         height:120px;
+         border-radius:50%;
+         border:3px solid #00ffff;
+         box-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;
+         animation: float 3s ease-in-out infinite;
+       " />
 </div>
->>>>>>> 209d75d (FEAT: :zap: UPDATE CODE)
 
-<!-- Animaciones CSS (GitHub las interpreta dentro del README) -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0.3; }
-  to { opacity: 1; }
-}
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+<!-- Simulación de animaciones solo con inline CSS -->
+<div style="display:none;">
+  <img src="./media/matrix.gif" alt="matrix preload">
+</div>
 
 ### 🌐 Conecta conmigo
 
