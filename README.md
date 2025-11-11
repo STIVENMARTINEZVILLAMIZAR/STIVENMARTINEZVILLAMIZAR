@@ -2,7 +2,7 @@
 <div align="center" style="position: relative; height: 250px; overflow: hidden; border-radius: 20px;">
   
   <!-- Fondo de código cayendo tipo Matrix -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdxaWRjZ3ZndTIwaWRvNDk2cG5idDdvajFjeDI0OW94NHR2dmtjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif" 
+  <img src="./media/matrix.png" 
        alt="Matrix code background" 
        style="width:100%; height:250px; object-fit:cover; filter:brightness(0.4);" />
   
@@ -20,19 +20,7 @@
   </h1>
 
   <!-- Avatar holográfico a la derecha -->
-  <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/stiven.png" 
-       alt="Avatar holográfico" 
-       style="
-         position:absolute; 
-         top:25%; 
-         right:10%; 
-         width:120px; 
-         height:120px; 
-         border-radius:50%; 
-         box-shadow:0 0 25px #00FFFF; 
-         animation: float 4s ease-in-out infinite;
-       " />
-</div>
+
 
 <!-- Animaciones CSS (GitHub las interpreta dentro del README) -->
 <style>
