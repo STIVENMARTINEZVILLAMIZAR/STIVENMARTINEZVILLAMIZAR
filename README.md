@@ -2,7 +2,11 @@
 <div align="center" style="position: relative; height: 250px; overflow: hidden; border-radius: 20px;">
   
   <!-- Fondo de código cayendo tipo Matrix -->
+<<<<<<< HEAD
   <img src="./media/matrix.png" 
+=======
+  <img src="./media/matrix.gif" 
+>>>>>>> 209d75d (FEAT: :zap: UPDATE CODE)
        alt="Matrix code background" 
        style="width:100%; height:250px; object-fit:cover; filter:brightness(0.4);" />
   
@@ -19,8 +23,13 @@
     🚀 WELCOME TO MY UNIVERSE
   </h1>
 
+<<<<<<< HEAD
   <!-- Avatar holográfico a la derecha -->
 
+=======
+ 
+</div>
+>>>>>>> 209d75d (FEAT: :zap: UPDATE CODE)
 
 <!-- Animaciones CSS (GitHub las interpreta dentro del README) -->
 <style>
