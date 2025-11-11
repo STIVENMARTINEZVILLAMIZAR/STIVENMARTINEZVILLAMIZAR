@@ -1,15 +1,21 @@
-<table align="center">
-  <tr>
-    <td align="center" width="400" style="background: #000000; padding: 40px;">
-      <h1 style="color: #00FF00; font-family: 'Courier New'; font-size: 60px; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00; margin: 0;">WELCOME</h1>
-    </td>
-    <td align="center" width="400" style="background: #000000; padding: 40px;">
-      <img src="./media/stiven.png" alt="Stiven Martinez" width="200" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00; display: block;"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=WELCOME&fontSize=60&fontColor=00FF00&animation=fadeIn" alt="hacker header"/>
+</p>
 
-<h1 align="center">👨‍💻 Stiven Martínez Villamizar</h1>
+<p align="center">
+  <img src="./media/stiven.png" alt="Stiven Martinez" width="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; margin-top: -100px; position: relative; z-index: 10;"/>
+</p>
+
+### 🌐 Conecta conmigo
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
 
 ---
 
@@ -37,15 +43,6 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 
 ---
 
-### 🌐 Conecta conmigo
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
 ---
 
