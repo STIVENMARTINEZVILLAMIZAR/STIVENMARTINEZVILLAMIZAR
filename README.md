@@ -18,27 +18,7 @@
     ">
     🚀 WELCOME TO MY UNIVERSE
   </h1>
-
-  <!-- Avatar holográfico flotando -->
-  <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/stiven.png" 
-       alt="Stiven Hologram" 
-       style="
-         position:absolute;
-         top:20%;
-         right:10%;
-         width:120px;
-         height:120px;
-         border-radius:50%;
-         border:3px solid #00ffff;
-         box-shadow:0 0 25px #00ffff, 0 0 50px #00ffff;
-         animation: float 3s ease-in-out infinite;
-       " />
-</div>
-
-<!-- Simulación de animaciones solo con inline CSS -->
-<div style="display:none;">
-  <img src="./media/matrix.gif" alt="matrix preload">
-</div>
+</div
 
 ### 🌐 Conecta conmigo
 
