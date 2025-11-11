@@ -59,6 +59,11 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 ---
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=STIVENMARTINEZVILLAMIZAR&show_icons=true&theme=tokyonight" />
+</p>
+
+
 ---
 
 ### 📈 En constante crecimiento
@@ -72,8 +77,3 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STIVENMARTINEZVILLAMIZAR&show_icons=true&theme=tokyonight" />
-</p>
-
