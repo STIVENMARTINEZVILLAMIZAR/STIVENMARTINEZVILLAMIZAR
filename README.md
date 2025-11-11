@@ -3,7 +3,7 @@
   <!-- Fondo Matrix azul -->
   <img src="https://raw.githubusercontent.com/STIVENMARTINEZVILLAMIZAR/STIVENMARTINEZVILLAMIZAR/main/media/matrix.gif" 
        alt="Matrix code background" 
-       style="width:100%; height:250px; object-fit:cover; opacity:0.3; filter:brightness(0.8);" />
+       style="width:200%; height:250px; object-fit:cover; opacity:0.3; filter:brightness(0.8);" />
   
   <!-- Texto animado -->
   <h1 style="
