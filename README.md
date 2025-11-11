@@ -16,7 +16,8 @@
       text-shadow:0 0 10px #0a6107ff, 0 0 20px #05bb0eff;
       animation: glow 2s ease-in-out infinite alternate;
     ">
-    🚀 WELCOME TO MY UNIVERSE
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CD20C&background=000000F6&width=435&lines=%F0%9F%9A%80+WELCOME+TO+MY+UNIVERSE" alt="Typing SVG" /></a>
+
   </h1>
 </div
 
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  
 </div>
 
 
