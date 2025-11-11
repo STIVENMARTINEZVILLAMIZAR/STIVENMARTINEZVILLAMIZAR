@@ -16,7 +16,7 @@
       text-shadow:0 0 10px #0a6107ff, 0 0 20px #05bb0eff;
       animation: glow 2s ease-in-out infinite alternate;
     ">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CD20C&background=000000F6&width=435&lines=%F0%9F%9A%80+WELCOME+TO+MY+UNIVERSE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CD20C&width=435&lines=%F0%9F%9A%80+WELCOME+TO+MY+UNIVERSE" alt="Typing SVG" /></a>
 
   </h1>
 </div
