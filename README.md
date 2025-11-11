@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=WELCOME&fontSize=60&fontColor=00FF00&animation=twinkling&customColorList=000000" alt="hacker header"/>
-</p>
-
-<p align="center" style="margin-top: -100px; position: relative; z-index: 10;">
-  <img src="./media/stiven.png" alt="Stiven Martinez" width="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00, 0 0 80px rgba(0, 255, 0, 0.3);"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="400" style="background: #000000; padding: 40px;">
+      <h1 style="color: #00FF00; font-family: 'Courier New'; font-size: 60px; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00; margin: 0;">WELCOME</h1>
+    </td>
+    <td align="center" width="400" style="background: #000000; padding: 40px;">
+      <img src="./media/stiven.png" alt="Stiven Martinez" width="200" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00; display: block;"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=int%20main()%20%7B%20return%200%3B%20%7D;if%20(x%20%3E%2010)%20%7B%20hack()%3B%20%7D;while(true)%20%7B%20code()%3B%20%7D;01010110%2001001001%2000001010" alt="hacking code rain"/>
