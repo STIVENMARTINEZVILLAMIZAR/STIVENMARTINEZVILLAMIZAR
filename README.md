@@ -53,7 +53,7 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 ### 💡 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,js,python,nodejs,mysql,git,linux,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,js,python,nodejs,mysql,git,linux,vscode,unity,java" />
 </p>
 
 ---
