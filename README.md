@@ -54,20 +54,18 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 
 <p align="center">
 
-  <img src="https://cdn.simpleicons.org/html5" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3" height="40"/>
-  <img src="https://cdn.simpleicons.org/figma" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" height="40"/>
-  <img src="https://cdn.simpleicons.org/git" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux" height="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40"/>
-  
-  <!-- Opcionales (pueden fallar según CDN) -->
-  <img src="https://cdn.simpleicons.org/unity" height="40"/>
-  <img src="https://cdn.simpleicons.org/java" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
 
 </p>
 ---
