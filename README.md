@@ -54,7 +54,10 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,figma,js,python,nodejs,mysql,git,linux,vscode,unity,java,n8n,openai,roblox" />
-  
+  <br><br>
+  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40"/>
+  <img src="https://cdn.simpleicons.org/roblox/000000" height="40"/>
 </p>
 
 ---
