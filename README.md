@@ -54,23 +54,20 @@ Mi objetivo es continuar creciendo como desarrollador, creando proyectos que ins
 
 <p align="center">
 
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40"/>
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40"/>
-  <img src="https://cdn.simpleicons.org/java/007396" height="40"/>
-
-  <!-- Nuevos -->
-  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/roblox/000000" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3" height="40"/>
+  <img src="https://cdn.simpleicons.org/figma" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql" height="40"/>
+  <img src="https://cdn.simpleicons.org/git" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux" height="40"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40"/>
+  
+  <!-- Opcionales (pueden fallar según CDN) -->
+  <img src="https://cdn.simpleicons.org/unity" height="40"/>
+  <img src="https://cdn.simpleicons.org/java" height="40"/>
 
 </p>
 ---
